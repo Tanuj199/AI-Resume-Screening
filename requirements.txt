@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+numpy
+pdfminer.six
+torch # Required by sentence-transformers
+sentence-transformers
